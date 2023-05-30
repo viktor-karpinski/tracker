@@ -29,4 +29,5 @@ Weiters muss man in der Native App in der Datei "fetch.js" den Bearer Token anpa
 Sonst noch:
 
 npm install 
+
 npx expo start
